@@ -12,4 +12,4 @@ TYPE VARCHAR(50); -- aumenta o limite de letras para 50
 
 ALTER TABLE elenco
 ALTER column caracteristica
-TYPE TEXT;  --muda o tipo para TEXT
+TYPE TEXT;  --muda o tipo para TEXT 
