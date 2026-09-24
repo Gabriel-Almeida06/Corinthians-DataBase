@@ -31,7 +31,7 @@ corinthians_db/
 | `nacionalidade` | VARCHAR(30)         | País de origem                          |
 | `pe_dominante`  | VARCHAR(30)         | Perna dominante (Direito/Esquerdo)      |
 | `caracteristica`| TEXT                | Características de jogo (separadas por vírgula) |
-| `peso_kg`       | NUMERIC(5,2)        | Peso em kg                              |
+| `peso_kg`       | INT                 | Peso em kg                              |
 
 ## 🚀 Como rodar o projeto
 
